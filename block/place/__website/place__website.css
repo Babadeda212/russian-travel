@@ -1,17 +1,17 @@
-.places__place__website{
+.place__website{
     margin: 106px 0 48px;
     width: 456px;
     height: 46px;
 }
 @media screen and (max-width: 768px){
-    .places__place__website{
+    .place__website{
         margin: 46px 0 48px;
         width: 352px;
         height: 46px;
     }
 }
 @media screen and (max-width: 320px){
-    .places__place__website{
+    .place__website{
         display: none;
     }
 }
