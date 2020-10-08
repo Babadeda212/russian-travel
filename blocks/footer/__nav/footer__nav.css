@@ -1,0 +1,13 @@
+.footer__nav {
+
+}
+@media  (max-width: 768px) {
+    .footer__nav {
+        flex-direction: column;
+    }
+}
+@media  (max-width: 320px) {
+    .footer__nav {
+        margin-left: 16px;
+    }
+}
