@@ -15,6 +15,7 @@
 @media (max-width: 1024px) {
     .cover__subtitle {
         margin-top: 379px;
+        margin-bottom: 195px;
     }
 }
 @media (max-width: 768px) {
@@ -26,7 +27,7 @@
         line-height: normal;
     }
 }
-@media (max-width: 320px) {
+@media (max-width: 523px) {
     .cover__subtitle {
         margin-top: 119px;
         margin-bottom: 33px;
